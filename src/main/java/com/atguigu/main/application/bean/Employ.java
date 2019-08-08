@@ -45,7 +45,7 @@ public class Employ {
 	public void setSalary(long salary) {
 		this.salary = salary;
 	}
-	
+	public void show(){}
 	
 
 }
