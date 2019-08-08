@@ -11,5 +11,5 @@ public interface EmployMapper {
 	void inserEmp(Employ e);
 	List<Employ> queryEmps();
 	
-	System.out.println("test");
+
 }
