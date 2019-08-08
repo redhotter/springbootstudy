@@ -9,5 +9,7 @@ public interface EmployMapper {
 	void uqdateEmp(Employ e);
 	void deleteEmp(int id);
 	void inserEmp(Employ e);
-	List<Employ> queryEmps();	
+	List<Employ> queryEmps();
+	
+	System.out.println("test");
 }
