@@ -46,6 +46,7 @@ public class Employ {
 		this.salary = salary;
 	}
 	public void show(){}
+	public void show1(){}
 	
 
 }
